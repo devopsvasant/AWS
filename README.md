@@ -6,3 +6,7 @@ Tutorials | Terraform | HashiCorp Developer
 https://github.com/DevOpsInstituteMumbai-wq/AWS-EC2-instance
 
 https://killercoda.com/
+
+https://kubernetes.io/docs/concepts/architecture/
+
+https://kubernetes.io/docs/reference/kubectl/quick-reference/
