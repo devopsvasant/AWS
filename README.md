@@ -12,3 +12,5 @@ https://kubernetes.io/docs/concepts/architecture/
 https://kubernetes.io/docs/reference/kubectl/quick-reference/
 
 asdsad
+
+When Mutual Fund module was implemented the number of SIP registered were 5 K. With time these had increased to more than 65 K. Processing of such huge volume on any SIP Day within cut-off time is a big challenge. In order to improve on the processing within cut-off time, improve
