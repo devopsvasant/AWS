@@ -10,3 +10,5 @@ https://killercoda.com/
 https://kubernetes.io/docs/concepts/architecture/
 
 https://kubernetes.io/docs/reference/kubectl/quick-reference/
+
+asdsad
